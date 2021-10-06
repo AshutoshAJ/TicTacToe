@@ -5,7 +5,7 @@ A simple two player game.
 * Glow indicates players turn.  
 * Touching any cell, starts the game.  
 * Cell shows activated by which player.  
-* Clicking on the winner starts a new game.
+* Clicking on the winner message starts a new game.
 ___
 
 # Screenshots
